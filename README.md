@@ -41,6 +41,7 @@ Fantasy-Battle-RPG/
 
 | Member | Responsibilities |
 | XIE ZHIXIAN | Character System and Skill System |
+
 | HUANG RUI | Battle System and Monster System |
 
 ## 6. Development Status
